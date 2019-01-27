@@ -1,0 +1,11 @@
+CRUD
+https://www.youtube.com/watch?v=3xRMUDC74Cw&t=3s&fbclid=IwAR1gyx1UalECIbEdqWCzK2JZnyggOwj7p6uCtO1GIY4SF1aqtUyIryS_-BY
+
+
+LOGIN/REGISTER
+https://www.youtube.com/watch?v=C--mu07uhQw
+
+https://codewithawa.com/posts/complete-user-registration-system-using-php-and-mysql-database
+
+ANOTHER-CRUD
+https://codewithawa.com/posts/php-crud-create,-edit,-update-and-delete-posts-with-mysql-database
